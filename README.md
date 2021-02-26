@@ -17,7 +17,7 @@
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-vilmar-orange">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/badge/repo%20size-1.33%20MB-orange">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vilmarsitiodigital/gobarber-mobile?color=%23FF9000">
 
   <a href="https://github.com/vilmarsitiodigital/gobarber-api/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vilmarsitiodigital/gobarber-mobile?color=%23FF9000">
