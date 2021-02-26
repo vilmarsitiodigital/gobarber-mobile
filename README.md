@@ -8,8 +8,6 @@
 
 <p align="center">The best way to schedule your service!</p>
 
-<p align="center">The best way to schedule your service!</p>
-
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vilmarsitiodigital/gobarber-mobile?color=%23FF9000">
 
@@ -27,8 +25,8 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/vilmarsitiodigital/gobarber-mobile?color=%23FF9000">
   </a>
 
-  <a href="https://github.com/vilmarsitiodigital/gobarber-api/blob/main/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/badge/license-MIT-orange">
+  <a href="https://github.com/vilmarsitiodigital/gobarber-mobile/blob/main/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/vilmarsitiodigital/gobarber-mobile?color=%23FF9000">
   </a>
 </p>
 
