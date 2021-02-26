@@ -11,7 +11,7 @@
 <p align="center">The best way to schedule your service!</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/badge/typescript-90.9%25-orange">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vilmarsitiodigital/gobarber-mobile?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/vilmarbatista/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-vilmar-orange">
@@ -20,11 +20,11 @@
   <img alt="Repository size" src="https://img.shields.io/badge/repo%20size-1.33%20MB-orange">
 
   <a href="https://github.com/vilmarsitiodigital/gobarber-api/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/badge/last%20commit-february%202021-orange">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vilmarsitiodigital/gobarber-mobile?color=%23FF9000">
   </a>
 
   <a href="https://github.com/vilmarsitiodigital/gobarber-api/issues">
-    <img alt="Repository issues" src="https://img.shields.io/badge/issues-0%20open-orange">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/vilmarsitiodigital/gobarber-mobile?color=%23FF9000">
   </a>
 
   <a href="https://github.com/vilmarsitiodigital/gobarber-api/blob/main/LICENSE">
